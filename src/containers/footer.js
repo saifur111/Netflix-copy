@@ -33,8 +33,8 @@ export function FooterContainer() {
                 </Footer.Column>
             </Footer.Row>
             <Footer.Break />
-            <Footer.Text>Netflix India</Footer.Text>
-            <Footer.Link href='https://www.linkedin.com/in/prem-balaji-429583162/'>Developed By PremBalaji. Click Here.</Footer.Link>
+            <Footer.Text>Netflix Bangladesh</Footer.Text>
+            <Footer.Link href='https://www.linkedin.com/in/msrs2hin'>Developed By Md Saifur Rahman. Click Here.</Footer.Link>
         </Footer>
     )
 }
