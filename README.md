@@ -38,53 +38,53 @@
 
 ### Live Site Demo
 
-Demo: [Link](https://ottapp-c3093.web.app/)
+Demo: [Link](https://63bcf55d2eb6dd4cd7ce3f9c--deft-douhua-320cfc.netlify.app/)
 
 ### Project Screenshots
 
 - Home Page
 
-![image](https://user-images.githubusercontent.com/37274588/123246768-c748fe80-d503-11eb-9319-08bbaa160a07.png)
+![image]()
 
 - Jumbotron Component
 
-![image](https://user-images.githubusercontent.com/37274588/123246903-f2335280-d503-11eb-9e3f-e8f03a521805.png)
+![image]()
 
 - Accordion Component
 
-![image](https://user-images.githubusercontent.com/37274588/123246988-05462280-d504-11eb-90bd-2b6b69cbf77b.png)
+![image]()
 
 - Footer Component
 
-![image](https://user-images.githubusercontent.com/37274588/123247049-15f69880-d504-11eb-8ef8-d79a1c3c73a1.png)
+![image]()
 
 - Sign Up Page
 
-![image](https://user-images.githubusercontent.com/37274588/123247176-3cb4cf00-d504-11eb-8ffd-51e92ed61711.png)
+![image]()
 
 - Sign In Page
 
-![image](https://user-images.githubusercontent.com/37274588/123247268-5524e980-d504-11eb-992d-a71dc365ea3b.png)
+![image]()
 
 - Profile Page
 
-![image](https://user-images.githubusercontent.com/37274588/123247343-6e2d9a80-d504-11eb-8aa2-15009bdeca07.png)
+![image]()
 
 - Landing Page
 
-![image](https://user-images.githubusercontent.com/37274588/123247418-843b5b00-d504-11eb-8a54-13bade3f181f.png)
+![image]()
 
 - Collection of Movies and Series
 
-![image](https://user-images.githubusercontent.com/37274588/123247535-a0d79300-d504-11eb-8288-23a016c0780a.png)
+![image]()
 
 - Feature Component (Overview,Vote Average, Rating, Category)
 
-![image](https://user-images.githubusercontent.com/37274588/123247869-ec8a3c80-d504-11eb-8370-dc9bf2dd6b4c.png)
+![image]()
 
 - Trailer Component
 
-![image](https://user-images.githubusercontent.com/37274588/123248009-0f1c5580-d505-11eb-8761-8f4b3e210495.png)
+![image]()
 
 
 ---
