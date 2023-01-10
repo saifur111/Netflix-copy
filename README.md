@@ -209,12 +209,12 @@ firebase deploy
 
 ## Author
 
-- Prem Balaji B
+- Md Saifur Rahman
 
 ---
 
 ## License
 
-- Licencesed under PremBalaji B
+- Licencesed under Md Saifur Rahman
 
 ---
